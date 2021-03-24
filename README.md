@@ -1,6 +1,6 @@
 # web-scraping-bs4-splash-
 Scrapes user reviews(along with product name and review-title) from amazon for the product (mobile)
-whose url is taken as input from user and the reviews are saved with the product name int he form of
+whose url is taken as input from user and the reviews are saved with the product name in the form of
 csv .(Splash ,BeautifulSoup is used for Scraping)
 Get connected to US network using vpn for not getting blocked easily.
 Uploaded demo video for better Understanding
